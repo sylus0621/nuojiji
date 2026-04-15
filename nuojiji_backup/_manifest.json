@@ -1,0 +1,43 @@
+{
+  "version": 6,
+  "timestamp": 1776212042336,
+  "appVersion": "4.0.0 (2026.04.11)",
+  "tables": [
+    "characters",
+    "worldBooks",
+    "globalSettings",
+    "stickers",
+    "kaomojis",
+    "users",
+    "userState",
+    "userPosts",
+    "chatSettings",
+    "messages",
+    "memory",
+    "callLogs",
+    "roleStickers",
+    "tmSessions",
+    "tmStories",
+    "customNoises",
+    "flashMoments",
+    "groupSettings",
+    "userLinks",
+    "userMessages",
+    "ttsAudio",
+    "forumData",
+    "calendarData",
+    "groupChats",
+    "xinsheng",
+    "pomodoroSessions",
+    "couplesData",
+    "imageStore",
+    "quickReplies",
+    "goingOutState",
+    "mapRasterCache",
+    "_migration"
+  ],
+  "chunkedTables": {
+    "messages": 10,
+    "tmStories": 3
+  }
+}
